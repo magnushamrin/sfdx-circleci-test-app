@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.sfdx/
+/.idea/
+/sfdx-circleci-test-app.iml

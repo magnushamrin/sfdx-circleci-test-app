@@ -1,0 +1,8 @@
+{
+    "orgName": "Scratch Org",
+    "edition": "Developer",
+    "language" : "en_US",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
