@@ -2,3 +2,5 @@
 /.sfdx/
 /.idea/
 /sfdx-circleci-test-app.iml
+/IlluminatedCloud/
+.DS_Store
