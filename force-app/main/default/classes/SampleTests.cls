@@ -11,4 +11,10 @@ public class SampleTests {
         System.assert(true);
     }
 
+    @isTest
+    public static void test_method_three() {
+        System.assert(true);
+    }
+
 }
+

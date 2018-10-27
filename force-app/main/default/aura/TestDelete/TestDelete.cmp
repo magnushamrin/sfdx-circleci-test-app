@@ -1,0 +1,3 @@
+<aura:component description="TestDelete">
+    <p>Test </p>
+</aura:component>
